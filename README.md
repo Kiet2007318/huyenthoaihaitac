@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux </h1>
 <img alt="7" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/7.png" />
-<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/5.png" />
+<img alt="Homepage" src="https://github.com/kiet2007318/huyenthoaihaitac/blob/main/image/5.png" />
   Chìa khóa Huyền Thoại hải tặc server termux
 
  - key sẽ bị xóa khỏi hệ thống sau khi cài đặt thành công
@@ -23,7 +23,7 @@
 
 ```bash
 function install () {
-  clear; curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/haitac4754/huyenthoaihaitac/main/script_install2.sh" --output script_install2.sh && bash script_install2.sh || echo "Internet ERROR"; unset install
+  clear; curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/kiet2007318/huyenthoaihaitac/main/script_install2.sh" --output script_install2.sh && bash script_install2.sh || echo "Internet ERROR"; unset install
 }
 install
 ```
@@ -65,7 +65,7 @@ install
 
 ## Author
 
-👤 **haitac4754**
+👤 **iet2007**
 
 * Website: (https://gmtoolgame.tudong.pro/ )
 * Github: [@haitac4754](https://github.com/haitac4754)
